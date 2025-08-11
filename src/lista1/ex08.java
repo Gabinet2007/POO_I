@@ -2,7 +2,7 @@ package lista1;
 
 import java.util.Scanner;
 
-public class ex8 {
+public class ex08 {
 
     public static void main(String[] args) {
         Scanner en = new Scanner(System.in);
