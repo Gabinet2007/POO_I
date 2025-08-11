@@ -3,7 +3,7 @@ package lista2;
 import java.util.Scanner;
 
 
-public class ex5 {
+public class ex05 {
     public static void main(String[] args) {
         Scanner en = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package lista2;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class ex7 {
+public class ex07 {
     public static void main(String[] args) {
         Scanner en = new Scanner(System.in);
         double[] numeros = new double[3];
